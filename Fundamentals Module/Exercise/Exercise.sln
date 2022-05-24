@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padawan Equipment", "Padawan Equipment\Padawan Equipment.csproj", "{360D8992-725B-4D51-AD86-FADBAC5F7950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Padawan Equipment", "Padawan Equipment\Padawan Equipment.csproj", "{360D8992-725B-4D51-AD86-FADBAC5F7950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rage Expenses", "Rage Expenses\Rage Expenses.csproj", "{B71C7C24-8DDF-46AE-8EF5-BC3FAD0D5616}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{360D8992-725B-4D51-AD86-FADBAC5F7950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{360D8992-725B-4D51-AD86-FADBAC5F7950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{360D8992-725B-4D51-AD86-FADBAC5F7950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71C7C24-8DDF-46AE-8EF5-BC3FAD0D5616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71C7C24-8DDF-46AE-8EF5-BC3FAD0D5616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71C7C24-8DDF-46AE-8EF5-BC3FAD0D5616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71C7C24-8DDF-46AE-8EF5-BC3FAD0D5616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
